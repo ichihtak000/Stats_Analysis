@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576561514874.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3026651584",
+    "id" : "F6B7767",
+    "lastKnownWriteTime" : 1576562099,
+    "last_content_update" : 1576562099631,
+    "path" : "~/Keio/freshman/Stats_Analysis/R/Project/14.R",
+    "project_path" : "14.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

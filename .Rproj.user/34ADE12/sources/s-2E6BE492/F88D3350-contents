@@ -1,0 +1,13 @@
+names(titanic_train)
+train <- replace_with_na_all(titanic_train,
+                             condition = ~.x %in% c("NA", ""))
+glimpse(train)
+head(train)
+summary(train)
+sapply(train, function(x) sum(is.na(x)))
+summarise_all(train, ~ sum(is.na(.)))
+
+train2 <-na.omit(train)
+train2<-tidyr::drop_na(train)
+head(train2)
+summary(train2)

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576562095338.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2335567276",
+    "id" : "AE4E4276",
+    "lastKnownWriteTime" : 1576565163,
+    "last_content_update" : 1576565163678,
+    "path" : "~/Keio/freshman/Stats_Analysis/R/Project/14_markdown.Rmd",
+    "project_path" : "14_markdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
